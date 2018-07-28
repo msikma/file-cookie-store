@@ -1,5 +1,5 @@
 {
-  "name": "file-cookie-store-sync",
+  "name": "tough-cookie-file-store-sync",
   "version": "0.3.0",
   "description": "Store cookies in Netscape's file",
   "main": "index.js",
