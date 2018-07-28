@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JSBizon/file-cookie-store.git"
+    "url": "https://github.com/msikma/file-cookie-store.git"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --reporter spec --bail --timeout 10000 test/*.js"
@@ -37,7 +37,7 @@
   "author": "Dmitry Nizovtsev (https://github.com/JSBizon)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JSBizon/file-cookie-store/issues"
+    "url": "https://github.com/msikma/file-cookie-store/issues"
   },
   "directories": {
     "test": "test"
